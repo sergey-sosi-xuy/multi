@@ -1,10 +1,10 @@
 [
     {
-      "цвет": "FF0000",
+      "color": "FF0000",
       "dopname": "",
       "maxonline": 1000,
-      "название": "MULTI MOBILE",
-      "онлайн": 0
+      "name": "MULTI MOBILE",
+      "online": 0
     }
    
   ]
