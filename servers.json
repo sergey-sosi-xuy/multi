@@ -1,10 +1,8 @@
 [
-    {
-      "color": "FF0000",
-      "dopname": "",
-      "maxonline": 1000,
-      "name": "MULTI MOBILE",
-      "online": 0
-    }
-   
-  ]
+	{
+		"ip": "141.95.190.143",
+		"port": 1185,
+		"id": 1,
+		"name": "MULTI RP"
+	}
+]
