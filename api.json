@@ -1,12 +1,12 @@
 {
     "clientVersionCode": 100,
-    "gameFilesVersionCode": 109,
-    "URL_GAME_FILES" : "http://a0756636.xsph.ru/game.zip",
-    "URL_GAME_FILES_UPD" : "http://a0756636.xsph.ru/upd.zip",
-    "URL_VK": "https://vk.com/multiroieplay",
-    "URL_DISCORD": "https://discord.gg/PRk2cbDXmc",
+    "gameFilesVersionCode": 100,
+    "URL_GAME_FILES" : "http://a0820059.xsph.ru/game.zip",
+    "URL_GAME_FILES_UPD" : "https://a0820059.xsph.ru",
+    "URL_VK": "https://vk.com/ethereum.mobile",
+    "URL_DISCORD": "https://discord.gg/",
     "URL_YOUTUBE": "https://t.me/",
-    "URL_FORUM": "https://",
-    "URL_DONATE": "https://",
+    "URL_FORUM": "",
+    "URL_DONATE": "https://ru-state.online/donate",
     "URL_CLIENT": "https://api.ru-state.online/test/client.apk"
 }
