@@ -1,8 +1,11 @@
 [
-	{
-		"ip": "141.95.190.143",
-		"port": 1185,
-		"id": 1,
-		"name": "MULTI RP"
-	}
+    {
+      "color": "00ff00",
+      "dopname": "(X3)",
+      "maxonline": 1000,
+      "name": "SANRELO RUSSIA",
+      "online": 170,
+      "server_status": true,
+      "server_num": "1"
+    }
 ]
