@@ -1,6 +1,4 @@
 {
-    "clientVersionCode": 100,
-    "gameFilesVersionCode": 100,
-    "URL_GAME_FILES" : "http://a0820059.xsph.ru/game.zip",
-    "URL_GAME_FILES_UPD" : "https://a0820059.xsph.ru",
+  "URL_GAME_FILES" : "https://insilio-rp.online/liverussia/cache.zip",
+  "URL_CLIENT": "http://wh10412.web3.maze-host.ru/launcher.apk"
 }
